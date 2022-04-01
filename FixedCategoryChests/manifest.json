@@ -1,0 +1,10 @@
+﻿{
+	"name": "FixedCategoryChests",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Fixes category chests drop pool to allow items that have the correct items",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.1902",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
