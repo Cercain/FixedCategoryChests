@@ -8,6 +8,10 @@ Note: This is a bug is only present in SotV->v1.2.2.0. It is due to be fixed nex
 
 ## Changelog
 
+**1.0.1**
+
+* Manifest updated with better description
+
 **1.0.0**
 
 * Initial Release

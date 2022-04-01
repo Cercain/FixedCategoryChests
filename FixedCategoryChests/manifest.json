@@ -1,6 +1,6 @@
 ﻿{
 	"name": "FixedCategoryChests",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/Cercain/FixedCategoryChests",
 	"description": "Fixes category chests drop pool to allow all items that contain the tag instead of ONLY the tag",
 	"dependencies": [

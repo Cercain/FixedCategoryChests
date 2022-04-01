@@ -19,7 +19,7 @@ namespace FixedCategoryChests
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "Cercain";
         public const string PluginName = "FixedCategoryChests";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         public void OnEnable()
         {
