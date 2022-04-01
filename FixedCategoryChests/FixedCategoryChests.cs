@@ -12,7 +12,6 @@ using PickupIndex = RoR2.PickupIndex;
 
 namespace FixedCategoryChests
 {
-    [BepInDependency(R2API.R2API.PluginGUID)]
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
 
     public class FixedCategoryChests : BaseUnityPlugin
