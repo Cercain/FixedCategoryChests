@@ -2,7 +2,7 @@
 	"name": "FixedCategoryChests",
 	"version_number": "1.0.0",
 	"website_url": "https://github.com/Cercain/FixedCategoryChests",
-	"description": "Fixes category chests drop pool to allow items that have the correct items",
+	"description": "Fixes category chests drop pool to allow all items that contain the tag instead of ONLY the tag",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.1902",
 		"RiskofThunder-HookGenPatcher-1.2.3"
